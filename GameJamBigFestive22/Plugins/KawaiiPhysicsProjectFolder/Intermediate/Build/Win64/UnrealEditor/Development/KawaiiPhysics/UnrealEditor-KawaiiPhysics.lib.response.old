@@ -7,6 +7,6 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\ant7a\Documents\Unreal Projects\GameJamBigFestive2022\GameJamBigFestive22\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\ant7a\Documents\Unreal Projects\GameJamBigFestive2022\GameJamBigFestive22\Plugins\KawaiiPhysics\Intermediate\Build\Win64\UnrealEditor\Development\KawaiiPhysics\Module.KawaiiPhysics.cpp.obj"
-"C:\Users\ant7a\Documents\Unreal Projects\GameJamBigFestive2022\GameJamBigFestive22\Plugins\KawaiiPhysics\Intermediate\Build\Win64\UnrealEditor\Development\KawaiiPhysics\Default.rc2.res"
-/OUT:"C:\Users\ant7a\Documents\Unreal Projects\GameJamBigFestive2022\GameJamBigFestive22\Plugins\KawaiiPhysics\Intermediate\Build\Win64\UnrealEditor\Development\KawaiiPhysics\UnrealEditor-KawaiiPhysics.lib"
+"C:\Users\ant7a\Documents\Unreal Projects\GameJamBigFestive2022\GameJamBigFestive22\Plugins\KawaiiPhysicsProjectFolder\Intermediate\Build\Win64\UnrealEditor\Development\KawaiiPhysics\Module.KawaiiPhysics.cpp.obj"
+"C:\Users\ant7a\Documents\Unreal Projects\GameJamBigFestive2022\GameJamBigFestive22\Plugins\KawaiiPhysicsProjectFolder\Intermediate\Build\Win64\UnrealEditor\Development\KawaiiPhysics\Default.rc2.res"
+/OUT:"C:\Users\ant7a\Documents\Unreal Projects\GameJamBigFestive2022\GameJamBigFestive22\Plugins\KawaiiPhysicsProjectFolder\Intermediate\Build\Win64\UnrealEditor\Development\KawaiiPhysics\UnrealEditor-KawaiiPhysics.lib"
