@@ -99,8 +99,10 @@ LocalDerivedDataCache/*
 *CrashReportClient.ini
 *.log
 *.dmp
-*.log
-*.log
 
-/GameJamBigFestive22/Saved/**
+/GameJamBigFestive22/Saved/*
+/GameJamBigFestive22/Binaries/*
+/GameJamBigFestive22/Intermediate/*
+/GameJamBigFestive22/Platforms*
+
 
