@@ -79,3 +79,7 @@ LocalDerivedDataCache/*
 *CrashReportClient.ini
 *.log
 *.dmp
+*.log
+*.log
+Saved/*
+Config/*
