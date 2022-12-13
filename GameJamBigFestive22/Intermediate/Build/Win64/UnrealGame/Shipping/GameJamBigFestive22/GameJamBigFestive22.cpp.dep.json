@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ihsan ahmed\\documents\\github\\gamejambigfestive2022\\gamejambigfestive22\\intermediate\\source\\gamejambigfestive22.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ihsan ahmed\\documents\\github\\gamejambigfestive2022\\gamejambigfestive22\\intermediate\\build\\win64\\gamejambigfestive22\\shipping\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\ihsan ahmed\\documents\\github\\gamejambigfestive2022\\gamejambigfestive22\\intermediate\\build\\win64\\unrealgame\\shipping\\gamejambigfestive22\\definitions.gamejambigfestive22.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
