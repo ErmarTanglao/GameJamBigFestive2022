@@ -10,7 +10,21 @@
 				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Actors/Book3.uasset",
 				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Levels/Level_01.umap",
 				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/GameModes/TopDownGameMode.uasset",
-				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Blueprint/MainCharacterBP.uasset"
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Blueprint/MainCharacterBP.uasset",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Blueprint/BP_MagicAttack1.uasset",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Blueprint/BP_MagicAttack.uasset",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Blueprint/BP_MagicAttack2.uasset",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Blueprint/BP_MagicAttack3.uasset",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Blueprint/BP_MagicAttack4.uasset",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Input/GameJamPlayerController.uasset",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Input/GameJamInputMapping.uasset",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Input/IA_Attack1.uasset",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Input/IA_Attack.uasset",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Input/IA_Attack2.uasset",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Input/IA_Attack3.uasset",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Characters/MainCharacter/Input/IA_Attack4.uasset",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/Levels/MainMenuMap.umap",
+				"C:/Users/Ihsan Ahmed/Documents/GitHub/GameJamBigFestive2022/GameJamBigFestive22/Content/UI/MainMenu.uasset"
 			]
 		}
 	]
