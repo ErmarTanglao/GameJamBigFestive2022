@@ -15,6 +15,11 @@
 			"Name": "KawaiiPhysics",
 			"Enabled": false,
 			"MarketplaceURL": "KawaiiPhysics : Simple fake Physics for UnrealEngine4&5"
+		},
+		{
+			"Name": "EIS",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e80602317f6f43fa92e84cb51e286add"
 		}
 	],
 	"TargetPlatforms": [
